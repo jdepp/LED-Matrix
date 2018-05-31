@@ -5,16 +5,16 @@ The purpose of this project is for fun and to learn a bit about hardware, python
 
 ## Hardware Used
 
-*Raspberry Pi
-*Adafruit Hat to control the LED Matrix [linked here](https://www.adafruit.com/product/2345)
-*Two LED 16x32 pixels Matrices [linked here](https://www.adafruit.com/product/420)
-*5V 4A power supply [linked here](https://www.adafruit.com/product/1466)
+* Raspberry Pi
+* Adafruit Hat to control the LED Matrix [linked here](https://www.adafruit.com/product/2345)
+* Two LED 16x32 pixels Matrices [linked here](https://www.adafruit.com/product/420)
+* 5V 4A power supply [linked here](https://www.adafruit.com/product/1466)
 
 ### Content Sources
 The project currently has two API sources:
  * Music - Spotify
  * Weather - Dark Skies API
- 
+
 #### Author
 Jeremy Deppen
 
