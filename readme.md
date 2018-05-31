@@ -5,7 +5,7 @@ The purpose of this project is for fun and to learn a bit about hardware, python
 
 ## Hardware Used
 
-* Raspberry Pi
+* Raspberry Pi 3B [linked here](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 * Adafruit Hat to control the LED Matrix [linked here](https://www.adafruit.com/product/2345)
 * Two LED 16x32 pixels Matrices [linked here](https://www.adafruit.com/product/420)
 * 5V 4A power supply [linked here](https://www.adafruit.com/product/1466)
