@@ -10,10 +10,11 @@ The purpose of this project is for fun and to learn a bit about hardware, python
 * Two LED 16x32 pixels Matrices [linked here](https://www.adafruit.com/product/420)
 * 5V 4A power supply [linked here](https://www.adafruit.com/product/1466)
 
-### Content Sources
+## Content Sources
 The project currently has two API sources:
  * Music - Spotify
  * Weather - Dark Skies API
+
 
 #### Author
 Jeremy Deppen
