@@ -13,7 +13,7 @@ The start_server shell script starts the necessary APIs as well as the main serv
 
 * Raspberry Pi 3B [linked here](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 * Adafruit Hat to control the LED Matrix [linked here](https://www.adafruit.com/product/2345)
-* Two LED 16x32 pixels Matrices [linked here](https://www.adafruit.com/product/420)
+* Two LED 16x32 pixel Matrices [linked here](https://www.adafruit.com/product/420)
 * 5V 4A power supply [linked here](https://www.adafruit.com/product/1466)
 * Kano Motion Sensor Kit [linked here](https://kano.me/store/us/products/motion-sensor-kit)
 
