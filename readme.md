@@ -6,7 +6,7 @@ The purpose of this project is for fun and to learn a bit about hardware, python
 The start_server shell script starts the necessary APIs as well as the main server to display the information.
 
 ## Additional Functionality
-* Motion Sensor: implemented [Kano's Motion Sensor](https://kano.me/store/us/products/motion-sensor-kit) to preform animations on the LED matrix. The sensor detects motion and writes JSON data to a serial port on the Pi which can be used to in a Python script using the open source Github repo [PySerial](https://github.com/pyserial/pyserial).
+* Motion Sensor: implemented [Kano's Motion Sensor](https://kano.me/store/us/products/motion-sensor-kit) to perform animations on the LED matrix. The sensor detects motion and writes JSON data to a serial port on the Pi which can be used to in a Python script using the open source Github repo [PySerial](https://github.com/pyserial/pyserial).
 * Simple game: a game that uses the 'w', 'a', 's', and 'd' keys to move a dot (the player) around to pick up various pickups before time runs out. Uses the Python library Curses to detect user input.
 
 ## Hardware Used
